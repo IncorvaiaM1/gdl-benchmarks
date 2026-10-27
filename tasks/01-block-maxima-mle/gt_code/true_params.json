@@ -1,0 +1,10 @@
+{
+  "lambda_true": 2.0,
+  "m": 4,
+  "n_train": 2000,
+  "n_holdout": 2000,
+  "seed_train": 20260904,
+  "seed_holdout": 20260905,
+  "train_sha256": "7fc1dade9370cab98f675808ed0c7b9cea2b17bf974ec4d1860435db26c74587",
+  "holdout_sha256": "b7a017d92f50963891b4120e3b7f673c23fd65119ecd377d3f2e9fce5dfab0fb"
+}

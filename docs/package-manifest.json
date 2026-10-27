@@ -1,0 +1,658 @@
+[
+  {
+    "path": ".editorconfig",
+    "sha256": "45aa05a7e11bbf644fd5d9ef3d13c4bd47f2b9dc501be2e38842eef247bbd8f8"
+  },
+  {
+    "path": ".gitattributes",
+    "sha256": "fb1462624ae316ff099fdbbee2fc80ef9b2a99b389e9e6a72dd36756dd2cef02"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "e0a3c419a1f8c3cd7737ee9d2bf168a72e16b24042b21c400583d971393e782f"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "sha256": "924115b83444477ebe9b4026ff23e5a1a2778dde12ad7201a70073bbb056e7b7"
+  },
+  {
+    "path": "docs/PUBLICATION.md",
+    "sha256": "5168810e02954077eeb5d932134dfb2f62719e7680ceeb86dea4601b31c78279"
+  },
+  {
+    "path": "docs/SOURCES.md",
+    "sha256": "0e9e5fda972e2b6eba00a7c7382375b8384c320573f39c0327d288b31efdbdc5"
+  },
+  {
+    "path": "README.md",
+    "sha256": "cfc91af2d784af3fdf63685ef975487f0fe4630d25d815739a6576223cbfb2e2"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "401c9da89ba47953c809c3a97296999db61dfb54f370eb13683b0d03a2bdbba2"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/data/DOWNLOAD.md",
+    "sha256": "c51146389f3dff5390e097a103a8fdce2854a2e36215543f82a2820fed897d97"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/INSTALL.md",
+    "sha256": "713c5b5554ece6249ff35c05b218e217a08fbd218238ed7d19a5bd5476f0b839"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/results/estimate.json",
+    "sha256": "acadc0da17038409c31d35948ef2645ef9172fb22dd5890c58c772dfab65992a"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/solution/blockmax_exp_mle.py",
+    "sha256": "55fce147facc1613ca431f029d071973dd186d33d5ce042d000d3b74807d6a78"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/solution/README.md",
+    "sha256": "d3a2da01ea56181a7ae35ec5ace70c27b5fd97bf18be23d8d665c291a0e51a8a"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/solution/requirements.txt",
+    "sha256": "046cb5349d1aed04580edfbb4041a32d86310b6133ea8cbb31f886cc5aa5683a"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/solution/run_estimate.py",
+    "sha256": "a3cb38f3a854f38a19db7b182228b7dc7a6dc2b273b0ccf98f9117c5a6d78e02"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/solution/verify_model.py",
+    "sha256": "e6fcf5c4cb479c7fc23491d32746a65cb0299b036f3a4ff877a0943cd365e030"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/STATUS.md",
+    "sha256": "b6cd50f3a82b73de6da667d6ed17f52c312076233afca62b5afc0ad6d4b784b1"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace/task/TASK.md",
+    "sha256": "614488e05f58ee4e437ccf7bd2e1242349251c3d5e6e17236dd3fed34cbfebb9"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/data/DOWNLOAD.md",
+    "sha256": "c51146389f3dff5390e097a103a8fdce2854a2e36215543f82a2820fed897d97"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/INSTALL.md",
+    "sha256": "6adb0fc41782f686d96767c16c142c50322ef5ce9ad3bc2937d47a29c1df5fb1"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/results/estimate.json",
+    "sha256": "a8a4facddf7b36568e4a0674195fc646ea97bb67f828cf421c8e6b69b7d12305"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/solution/estimate_lambda.py",
+    "sha256": "2294dcaf0c191eece86cb8809fc3fff6384d1d6799410f1b4274236768de6f78"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/solution/README.md",
+    "sha256": "4d55c8f3473eaf500c47a8235d269324d47957d9e71f98cf42f4c078b263392c"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/solution/selfcheck.py",
+    "sha256": "f5c3f5d03ae62f36f7a16d58d07636fafe04f301cd78b94a4668689e121d7e71"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/STATUS.md",
+    "sha256": "06f89be73fff40826a318207bf61431efc4f6d559370f12045b089bbcaebc6d4"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/claude_agent_workspace_run1_hinted/task/TASK.md",
+    "sha256": "091e50b50fe40ed3d557a384631dcde7f6cce22abf94ec3685e5ba0bbf83c5bf"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/data/DOWNLOAD.md",
+    "sha256": "c51146389f3dff5390e097a103a8fdce2854a2e36215543f82a2820fed897d97"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/INSTALL.md",
+    "sha256": "b6ecf0b3560700afaa49082f8c1d1c340019272d40557953d114983318b71731"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/results/estimate.json",
+    "sha256": "34a22e92690b5b7128e005dac1999c5e3176c3771f9dcd6d85338f35b27c3e97"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/solution/estimate.py",
+    "sha256": "5460090676e48f4b660d44a11e0f810a4ed654599fd3070cfd5e9d94d73a9eba"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/solution/README.md",
+    "sha256": "b3816fe643b74e44ad7ab574efe9235bcf8e0e33ec1543c3ab7c1b269aa06f59"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/STATUS.md",
+    "sha256": "6b95e69b437b941846358fd0d6bc5d0d07520f97ac11510c471384c0433665af"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace/task/TASK.md",
+    "sha256": "614488e05f58ee4e437ccf7bd2e1242349251c3d5e6e17236dd3fed34cbfebb9"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/data/DOWNLOAD.md",
+    "sha256": "c51146389f3dff5390e097a103a8fdce2854a2e36215543f82a2820fed897d97"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/INSTALL.md",
+    "sha256": "c00462247c91ebd5ac992f7e2a6ec93587d1e82d89e93cf699132b5856014c45"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/results/estimate.json",
+    "sha256": "4ee38f6464174052fe8baab941a8e2a63ab903183c559afd884fdb16685f248c"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/solution/estimate.py",
+    "sha256": "5fa4b84c0b2704391b071a33ac25e25d655a37ad2e8bdd546bd42c43799fa24e"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/solution/README.md",
+    "sha256": "9a4e3a6d584b0917563085a63746b8cb902b4bd9d2cbb53d4b9388ee361ba8a0"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/STATUS.md",
+    "sha256": "b052f87063d7693ef607620851482efac9085ea4a24e4f92a1fc6d8492374aaa"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/gpt_agent_workspace_run1_hinted/task/TASK.md",
+    "sha256": "091e50b50fe40ed3d557a384631dcde7f6cce22abf94ec3685e5ba0bbf83c5bf"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace/task/INSTALL.md",
+    "sha256": "b6d57361ce5fd963ae95312c10697249a287f7930365133dcbdac5b9458004e6"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace/task/results/estimate.json",
+    "sha256": "7facb14eea32c749cce8f4f0d6e434e4efd7852cf0059c926dcafee26ad66f63"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace/task/solution/estimate_lambda.py",
+    "sha256": "72b6debb622132eb84bed6db8500aaa16c7842bee719c1d228a08cc0bee62e0e"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace/task/STATUS.md",
+    "sha256": "78fcecab16d830e2e318ce92420bf0deb25bc1e17759c18ec360aa7d151ab993"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace/task/TASK.md",
+    "sha256": "614488e05f58ee4e437ccf7bd2e1242349251c3d5e6e17236dd3fed34cbfebb9"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace_run1_hinted/task/INSTALL.md",
+    "sha256": "bb508e6d5c4039b376b809599bbe79c46de65443511eef8f9c95f9e6729fc2f2"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace_run1_hinted/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace_run1_hinted/task/results/estimate.json",
+    "sha256": "7facb14eea32c749cce8f4f0d6e434e4efd7852cf0059c926dcafee26ad66f63"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace_run1_hinted/task/solution/estimate_lambda.py",
+    "sha256": "649a0ad3676519690018b6a982c1374115cbb822e546d8ca74aff414162a74a6"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace_run1_hinted/task/STATUS.md",
+    "sha256": "d55a0f3c63ab4bb08f4e88ebe26ceb5d4350c704f708eff620804a4057d0032d"
+  },
+  {
+    "path": "results/archived-runs/01-block-maxima-mle/grok_agent_workspace_run1_hinted/task/TASK.md",
+    "sha256": "091e50b50fe40ed3d557a384631dcde7f6cce22abf94ec3685e5ba0bbf83c5bf"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/claude_agent_workspace/claude_agent_workspace/task/INSTALL.md",
+    "sha256": "b1c5e50984002a6d37be2b2e182e17eef9c435c181fa092cbaf0e233abead1ad"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/claude_agent_workspace/claude_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/claude_agent_workspace/claude_agent_workspace/task/results/answer.json",
+    "sha256": "3cdd12c3b2e46614968d628fc77ffe48297216401b67aa8915a0ab188875918b"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/claude_agent_workspace/claude_agent_workspace/task/solution/solve.py",
+    "sha256": "b72a297bb9a11f957a45d38c92368574bd336d1494da8b8bded9bb3c93a19056"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/claude_agent_workspace/claude_agent_workspace/task/STATUS.md",
+    "sha256": "aa228db1ffc8e5e5859d9d51c137478150ff44ad4d7a12c0a327da6d70f114cd"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/claude_agent_workspace/claude_agent_workspace/task/TASK.md",
+    "sha256": "326fb8c6913c1305bcff7e7f06515f67252123fcb50badbbf838b388677bd80a"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/gpt_agent_workspace/gpt_agent_workspace/task/INSTALL.md",
+    "sha256": "610d1c51d2ae27d3234d29b8449f239ab78012b9aa18e86fdef783680b29391f"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/gpt_agent_workspace/gpt_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/gpt_agent_workspace/gpt_agent_workspace/task/results/answer.json",
+    "sha256": "43a793aa1c33373a2302b580e8367eea900da23ec9120e0ee052decbc9f3e7c2"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/gpt_agent_workspace/gpt_agent_workspace/task/solution/solve.py",
+    "sha256": "f28dac630c8c09353f130ba4b8f7ae2583e4a95b6f57c01b17aee6afe262a355"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/gpt_agent_workspace/gpt_agent_workspace/task/STATUS.md",
+    "sha256": "1e39f3ee87191c71e5148fc5c6cacdff2ae6b86c66a75828a0731bba23813de4"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/gpt_agent_workspace/gpt_agent_workspace/task/TASK.md",
+    "sha256": "326fb8c6913c1305bcff7e7f06515f67252123fcb50badbbf838b388677bd80a"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/grok_agent_workspace/grok_agent_workspace/task/INSTALL.md",
+    "sha256": "fb8ab18be5dbdf80d826d5b9f126fddf43e3c687c2e87a837d284c9599253d5f"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/grok_agent_workspace/grok_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/grok_agent_workspace/grok_agent_workspace/task/results/answer.json",
+    "sha256": "c8fce5a647f675f2f820a16c6967985ffa4708c90cdeed5530f1cf8c58964746"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/grok_agent_workspace/grok_agent_workspace/task/solution/solve.py",
+    "sha256": "252381f610956e87ca5c87d8691b3d7fb2054e9fed32376920b1afc75f6d1f18"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/grok_agent_workspace/grok_agent_workspace/task/STATUS.md",
+    "sha256": "6eceef34d2290c7b1e69dfb36a474f36fe1d7263eae71af3c781639ec801c063"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/grok_agent_workspace/grok_agent_workspace/task/TASK.md",
+    "sha256": "326fb8c6913c1305bcff7e7f06515f67252123fcb50badbbf838b388677bd80a"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison/PROMPT.md",
+    "sha256": "a214322b07b7dd17febdfc4e0c7fa268f6946fc0d5e37ae4c7cdb8a2222d064e"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/INSTALL.md",
+    "sha256": "6e8d78b8b53c9a5feba02996beeb712a3bb35d9a60d4bd705fc6878547960864"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/results/answer.json",
+    "sha256": "4971bc11e20b5810694a9e0966635405c580ccad21911e8cd59661507d223c9f"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/solution/DERIVATION.md",
+    "sha256": "10aa5dbed08855ae5adf59d8e99a70a4d3b3cb7bf0a529f53e7009c576033b29"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/solution/solve.py",
+    "sha256": "da5a2877807f2cba04e38a1e3d09a11fcf73f6a92e7c8e2080e3958cdbbc2d85"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/STATUS.md",
+    "sha256": "c3a176638222a155076e95e68a9bd2b04101ce5212c558ee38351adb2c503fe4"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/claude_agent_workspace/claude_agent_workspace/task/TASK.md",
+    "sha256": "6fb12534c0476d2a75d6abe351cb2cf90802f8d135b7fa9cee0d757eadb6e43f"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/gpt_agent_workspace/gpt_agent_workspace/task/INSTALL.md",
+    "sha256": "16d77cc364f2297487a61861e6e044923ad2836159afdff764168b2fb9d8c7c8"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/gpt_agent_workspace/gpt_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/gpt_agent_workspace/gpt_agent_workspace/task/results/answer.json",
+    "sha256": "91b9cf61a6c5c731213e6d2bda81c332ce671c9cc0234cb7c3cbc4c3c7660764"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/gpt_agent_workspace/gpt_agent_workspace/task/solution/solve.py",
+    "sha256": "49fa76d081fceef0a53160b00aacf866ab5ecf89d365ec8285f9a5a4978d6abb"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/gpt_agent_workspace/gpt_agent_workspace/task/STATUS.md",
+    "sha256": "ae8f3d882463288c10da6412401ca77122292907be9da8ef98013aef04adb289"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/gpt_agent_workspace/gpt_agent_workspace/task/TASK.md",
+    "sha256": "6fb12534c0476d2a75d6abe351cb2cf90802f8d135b7fa9cee0d757eadb6e43f"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/grok_agent_workspace/grok_agent_workspace/task/INSTALL.md",
+    "sha256": "ef229fc7266cbcac3760d39579033cdf7a8b156eb1a26983d9d7c0170d372548"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/grok_agent_workspace/grok_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/grok_agent_workspace/grok_agent_workspace/task/results/answer.json",
+    "sha256": "b73fb8a49804c5c907483a4e062d10d921617a6872f3331ed0320a434caffa6b"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/grok_agent_workspace/grok_agent_workspace/task/solution/compute_bpd.py",
+    "sha256": "1e5c8e443c7f1216f3527bf90608751cb178ebf16c9aa096e871b728025e34aa"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/grok_agent_workspace/grok_agent_workspace/task/STATUS.md",
+    "sha256": "42688d9ba249025a013902d5f8d3e2a350d368c082470a2df1039d0ee1356c99"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/grok_agent_workspace/grok_agent_workspace/task/TASK.md",
+    "sha256": "6fb12534c0476d2a75d6abe351cb2cf90802f8d135b7fa9cee0d757eadb6e43f"
+  },
+  {
+    "path": "results/archived-runs/02-density-comparison-v1/PROMPT.md",
+    "sha256": "72f0d49e411225451b4eda3971479b968d31eb90d21a1858d49073d78ee9fc37"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/INSTALL.md",
+    "sha256": "c377cbfd5db3c1197a65b9c69f9fecc5f5a5c38b16ad676bb584dd616083ca03"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/results/answer.json",
+    "sha256": "f5be328b8333aaca434f46b6e97a7bd10f971a630c65664fd8a7c87e385a9deb"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/solution/DERIVATION.md",
+    "sha256": "898b32f1fd6619631e52def184016ab3d343199a46688dd182867a5b2bfaf43f"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/solution/solve.py",
+    "sha256": "2527b57e256a23910a2b8916c2f1b3f04fd976a88cc22c408ecbca381f7918c3"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/STATUS.md",
+    "sha256": "2bfd1879f6bd1c263435d893b2c352a94a075166071dd29ccb6c0a627aade16f"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/claude_agent_workspace/task/TASK.md",
+    "sha256": "5f9c9592256ce3e1b5cfb2fe07938ec3c1f27448a1996c532301266f21ccdb21"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/claude_agent_workspace/verifier_output.txt",
+    "sha256": "dd4980398f888b83bd0d5f6c84df1bdc192ff0925560cdc5dfaf4bb79c635e6f"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/gpt_agent_workspace/task/INSTALL.md",
+    "sha256": "e2a4bdfd79252395b8d97e9cd02dd91c54b89c21f05a9182c646f5dbdeb11ba3"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/gpt_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/gpt_agent_workspace/task/STATUS.md",
+    "sha256": "3d9168ed7d4866ca95d49913ef6f059338c67752130538e5c9f72d0edb991223"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/gpt_agent_workspace/task/TASK.md",
+    "sha256": "5f9c9592256ce3e1b5cfb2fe07938ec3c1f27448a1996c532301266f21ccdb21"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/task/INSTALL.md",
+    "sha256": "2ae7add3f03e9c9974e729f4aa84adea1cfc74707a33002832089261b9a54f3d"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/task/results/answer.json",
+    "sha256": "b45d9bea33af5f0da56208e8d85ebd9175c1196ae58650075bc4159d5eb5c5f4"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/task/solution/DERIVATION.md",
+    "sha256": "4bb47b2d1a812a8906edaf1db9b72906ddd31a881430ef25c0da2b6a0bdf8056"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/task/solution/solve.py",
+    "sha256": "6c12e002c0d95239819675861d67df5f68eade7515edbe6e0e45b89e32ad5017"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/task/STATUS.md",
+    "sha256": "8a16e8a5c9a1a13d9fda4b73e9263b2b5a79c973e346dfde8605934de5ed016f"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/gpt_agent_workspace/verifier_output.txt",
+    "sha256": "7ebbd505cc15064c8afa0081194cea3d3ebd68cfeebb85b3d49485722ebe8b41"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/INSTALL.md",
+    "sha256": "75846f4d4f4f63e2b03e361e50e7a3a015675689ce897079fd7c837d42192d0e"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/results/answer.json",
+    "sha256": "f46d221ca78b5502536b0518682c30f461f3e393c67e8a99f29e4d3f65ab5593"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/solution/DERIVATION.md",
+    "sha256": "69c7a8fb792e8980fba9c9d666b9ba2450ebaf83390a63ffaabfcb1f69570b0b"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/solution/solve.py",
+    "sha256": "5d10861276119062a30e3cd26cb97c9674f80b679a8d5304bc56bb2633179c32"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/STATUS.md",
+    "sha256": "9c36409280ba64af58b521e1e9ab53cb758f25af0df91de0d5bce73949231415"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/grok_agent_workspace/task/TASK.md",
+    "sha256": "5f9c9592256ce3e1b5cfb2fe07938ec3c1f27448a1996c532301266f21ccdb21"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/grok_agent_workspace/verifier_output.txt",
+    "sha256": "b8f5afd282ae7afd39a50f0dddbcd850f9a3e9c47911be9f3cde1ce5c1c7796e"
+  },
+  {
+    "path": "results/archived-runs/03-gan-objectives/PROMPT.md",
+    "sha256": "8b859729354df0c8cc06bb0c7edac623f47d22ec9db0dc051572f039f2383f85"
+  },
+  {
+    "path": "results/README.md",
+    "sha256": "55282548c47f36f0580db39c6594de53bb6c616f7b76452de0f68e39b0bdf8e9"
+  },
+  {
+    "path": "RIGHTS.md",
+    "sha256": "914e1f5f92ac0aeee280aa10604ed86e529ce3aa70544f4954ffdf6cee758f1d"
+  },
+  {
+    "path": "scripts/check_references.py",
+    "sha256": "628c17a9b28f048ba77b4612b284fb67e4dc7755f6c84d42199aff45d7fc69f1"
+  },
+  {
+    "path": "scripts/export_agent_workspace.py",
+    "sha256": "3be01dcb52bb13b728ac415754907b61927a4e34a7fc8f02ef20d68840a1914c"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/data/DOWNLOAD.md",
+    "sha256": "c51146389f3dff5390e097a103a8fdce2854a2e36215543f82a2820fed897d97"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/data/holdout.csv",
+    "sha256": "b7a017d92f50963891b4120e3b7f673c23fd65119ecd377d3f2e9fce5dfab0fb"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/data/train.csv",
+    "sha256": "7fc1dade9370cab98f675808ed0c7b9cea2b17bf974ec4d1860435db26c74587"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/gt_code/make_dataset.py",
+    "sha256": "3e3898c06c0fc8ed4e94d200843dcd8f59ec3052d19677c907a0ffef4ea3fa81"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/gt_code/reference_solution.py",
+    "sha256": "e417fdea8fcc20aefa28e849f63a9562c7055bea173113584b5b890b0be91365"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/gt_code/true_params.json",
+    "sha256": "1caf7ed48687d3a2eb53a3e640d9a1f50030b1fd3e4077aa444828ed89202a4e"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/README.md",
+    "sha256": "f433cdfa14334690f3092fa0aac4b55293b60da936a49c3d22f31321cf947e36"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/task/INSTALL.md",
+    "sha256": "e2a4bdfd79252395b8d97e9cd02dd91c54b89c21f05a9182c646f5dbdeb11ba3"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/task/STATUS.md",
+    "sha256": "3d9168ed7d4866ca95d49913ef6f059338c67752130538e5c9f72d0edb991223"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/task/TASK.md",
+    "sha256": "614488e05f58ee4e437ccf7bd2e1242349251c3d5e6e17236dd3fed34cbfebb9"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/tests/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/tests/conftest.py",
+    "sha256": "5eb5654b8e83d0934f870ddb05581684d53ba87187c6e1044abf3c078a1266cc"
+  },
+  {
+    "path": "tasks/01-block-maxima-mle/tests/test_estimator.py",
+    "sha256": "2e09f6537c98e9cb460d4fde4170412f14da5a1e152c53f71bab11e299bc0dc9"
+  },
+  {
+    "path": "tasks/02-density-comparison/data/DOWNLOAD.md",
+    "sha256": "6feea13dc9e2eb2539e75b5e27591c53714ab1c3d5f871abe98b0ddce9274250"
+  },
+  {
+    "path": "tasks/02-density-comparison/data/images.csv",
+    "sha256": "98b5d6a6d90bc2bc1c22df168e45e63da97fa2cce5d75001650f7f391a8b69c4"
+  },
+  {
+    "path": "tasks/02-density-comparison/gt_code/make_dataset.py",
+    "sha256": "6436b7969cb26f0d816d4086b1c49b93fdf2e9eb1f3086bdaeda7ff1fc0303ca"
+  },
+  {
+    "path": "tasks/02-density-comparison/gt_code/reference_solution.py",
+    "sha256": "48aadff86fa62e7a6285d4e540643a48b53c6b69f098d55c9260f6e8d3e611e4"
+  },
+  {
+    "path": "tasks/02-density-comparison/gt_code/true_params.json",
+    "sha256": "1694bba61ecf964c90f4f6f6bde7649cd6702bcda86ba9d1dde5ab96abf35026"
+  },
+  {
+    "path": "tasks/02-density-comparison/README.md",
+    "sha256": "95db2cfe9970c7cc8e7e8a42818f1f23d6dd170e8fdb274e79b9af84791305b7"
+  },
+  {
+    "path": "tasks/02-density-comparison/task/INSTALL.md",
+    "sha256": "e2a4bdfd79252395b8d97e9cd02dd91c54b89c21f05a9182c646f5dbdeb11ba3"
+  },
+  {
+    "path": "tasks/02-density-comparison/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "tasks/02-density-comparison/task/STATUS.md",
+    "sha256": "3d9168ed7d4866ca95d49913ef6f059338c67752130538e5c9f72d0edb991223"
+  },
+  {
+    "path": "tasks/02-density-comparison/task/TASK.md",
+    "sha256": "326fb8c6913c1305bcff7e7f06515f67252123fcb50badbbf838b388677bd80a"
+  },
+  {
+    "path": "tasks/02-density-comparison/tests/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "tasks/02-density-comparison/tests/conftest.py",
+    "sha256": "d6a3cb412a27a2c13d390b4a2bc6bd61c7d5ec7d06645b2732332e842bd54900"
+  },
+  {
+    "path": "tasks/02-density-comparison/tests/test_solution.py",
+    "sha256": "6672876bddd6d4322c4191450b49b548e328e418b8972ed801f9aa600bc0951a"
+  },
+  {
+    "path": "tasks/02-density-comparison/WRITEUP.md",
+    "sha256": "e5be9c7122366f381b86def6f5034e6829b2c5861278423326e216db30d3044b"
+  },
+  {
+    "path": "tasks/03-gan-objectives/gt_code/reference_solution.py",
+    "sha256": "7dd3b51631c44ac6735f465dec59346ab332bbe948101d5fcc51db81de30a451"
+  },
+  {
+    "path": "tasks/03-gan-objectives/README.md",
+    "sha256": "ab56d57b910e2432832936f7015136f4694520f67bb656e73eaff938f53a307c"
+  },
+  {
+    "path": "tasks/03-gan-objectives/task/INSTALL.md",
+    "sha256": "e2a4bdfd79252395b8d97e9cd02dd91c54b89c21f05a9182c646f5dbdeb11ba3"
+  },
+  {
+    "path": "tasks/03-gan-objectives/task/PROJECT_INSTRUCTION.md",
+    "sha256": "1182e6369b01c245519c3717262757f49371e57cd9817766a3cf7bb5cbbe0c3d"
+  },
+  {
+    "path": "tasks/03-gan-objectives/task/STATUS.md",
+    "sha256": "3d9168ed7d4866ca95d49913ef6f059338c67752130538e5c9f72d0edb991223"
+  },
+  {
+    "path": "tasks/03-gan-objectives/task/TASK.md",
+    "sha256": "5f9c9592256ce3e1b5cfb2fe07938ec3c1f27448a1996c532301266f21ccdb21"
+  },
+  {
+    "path": "tasks/03-gan-objectives/tests/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "tasks/03-gan-objectives/tests/conftest.py",
+    "sha256": "1539e12a3e3d460a33aeea7479ca187242b007fb08a00cee5e53d74ce5418af7"
+  },
+  {
+    "path": "tasks/03-gan-objectives/tests/test_solution.py",
+    "sha256": "d3f284c7a3404b6c1298b2062cb3f6cb8dec31ad0c17dac79e119fe0b48f5c97"
+  },
+  {
+    "path": "tasks/03-gan-objectives/WRITEUP.md",
+    "sha256": "fa95d56075fcc37a5f2f4bb700ed0328927a028a2eb8777a3a41eb0abc46c592"
+  }
+]

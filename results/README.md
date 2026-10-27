@@ -1,0 +1,2 @@
+# Archived agent runs
+Historical evidence copied from existing run folders. Original labels and nesting are preserved. Task 01 includes baseline and hinted runs. Task 02-v1 targets an earlier two-model problem, not the current three-model task. Model versions, complete prompts, environments, and hint conditions are not uniformly recorded. These are not a verified leaderboard; no new agent evaluations were performed. Data and virtual environments are excluded.

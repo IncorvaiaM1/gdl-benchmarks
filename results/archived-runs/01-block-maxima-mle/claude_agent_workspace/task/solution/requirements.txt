@@ -1,0 +1,6 @@
+# Pinned dependencies for the block-maxima exponential MLE solution.
+# Versions were resolved on 2026-09-06 (latest available on PyPI at that time)
+# and then frozen. See ../INSTALL.md for which pins are load-bearing.
+numpy==2.5.3
+scipy==1.18.1
+mpmath==1.3.0

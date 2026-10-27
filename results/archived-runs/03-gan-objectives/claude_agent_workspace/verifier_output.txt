@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.16, pytest-9.1.1, pluggy-1.6.0 -- /usr/bin/python3
+rootdir: /mnt/attach/outputs/gdl3
+plugins: anyio-4.15.1
+collecting ... collected 8 items
+
+tests/test_solution.py::test_result_shape PASSED                         [ 12%]
+tests/test_solution.py::test_jsd_tie_pairs PASSED                        [ 25%]
+tests/test_solution.py::test_ls_tie_pairs PASSED                         [ 37%]
+tests/test_solution.py::test_ls_value_q2 PASSED                          [ 50%]
+tests/test_solution.py::test_k_hat PASSED                                [ 62%]
+tests/test_solution.py::test_q2_terms PASSED                             [ 75%]
+tests/test_solution.py::test_q_k_hat_terms PASSED                        [ 87%]
+tests/test_solution.py::test_prefers PASSED                              [100%]
+
+============================== 8 passed in 1.94s ===============================
